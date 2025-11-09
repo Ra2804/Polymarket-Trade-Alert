@@ -1,0 +1,11 @@
+{
+  "name": "polymarket-trade-alert",
+  "env": {
+    "POLYGONSCAN_API_KEY": {
+      "description": "Your Polygonscan API key"
+    },
+    "TELEGRAM_BOT_TOKEN": {
+      "description": "Your Telegram bot token"
+    }
+  }
+}
