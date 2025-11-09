@@ -1,0 +1,6 @@
+{
+  "polygonscan_api_key": "YOUR_POLYGONSCAN_API_KEY",
+  "telegram_bot_token": "123456:ABC-DEF...",
+  "poll_interval": 20,
+  "polymarket_data_api": "https://data-api.polymarket.com"
+}
